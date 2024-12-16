@@ -61,13 +61,13 @@ Line graph showing total bookings and cancellations from July to December.
 Comparative bar chart for City Hotel vs Resort Hotel bookings and cancellations.
 
 ## Recommendations
-Improving Booking Retention:
+# Improving Booking Retention:
 Implement stricter confirmation policies for bookings.
 Offer incentives for families and two-adult guests to reduce cancellations.
-Peak Season Strategies:
+# Peak Season Strategies:
 Offer discounts for bookings confirmed in advance (July–August).
 Increase communication and reminders for reservations made during peak months.
-City Hotel Performance:
+# City Hotel Performance:
 Enhance guest experience through personalized services.
 Address potential issues like overbooking or lack of amenities that drive cancellations.
 
