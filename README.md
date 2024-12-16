@@ -7,8 +7,9 @@ Guest types (family, single, and two adults),
 Booking correctness,
 Monthly booking trends, and
 Booking cancellations by hotel type (City vs Resort).
-The dataset contains 21,996 total bookings, out of which 8,142 were canceled. The analysis aims to:
+The dataset contains 21,996 total bookings, out of which 8,142 were canceled. 
 
+# The analysis aims to:
 Identify booking trends,
 Compare hotel performance, and
 Provide actionable insights to minimize cancellations.
