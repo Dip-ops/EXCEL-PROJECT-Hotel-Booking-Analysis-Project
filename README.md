@@ -59,15 +59,7 @@ Pie chart depicting the proportion of correct vs incorrect bookings.
 Line graph showing total bookings and cancellations from July to December.
 # Hotel Performance:
 Comparative bar chart for City Hotel vs Resort Hotel bookings and cancellations.
-# Insights
-Guest Type:
-Focus on reducing cancellations for two-adult bookings, as they contribute the most to cancellations.
-Booking Accuracy:
-Correct bookings still see high cancellations—this highlights a need for better confirmation systems.
-Monthly Trends:
-July and August experience the highest cancellations, indicating a need for improved strategies during peak seasons.
-Hotel Type:
-City Hotels face significantly higher cancellations compared to Resort Hotels. Addressing city hotel-specific issues (like overbooking or poor guest satisfaction) is critical.
+
 ## Recommendations
 Improving Booking Retention:
 Implement stricter confirmation policies for bookings.
