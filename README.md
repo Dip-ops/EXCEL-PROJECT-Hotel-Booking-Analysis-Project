@@ -31,42 +31,21 @@ Monthly Data: Total and canceled bookings for July to December.
 Hotel Type: City Hotel and Resort Hotel statistics.
 # Analysis
 # 1. Guest Type Analysis
-Guest Type	Total Booking	Canceled Booking	Cancellation Rate (%)
-Family	1,565	311	19.9%
-Single	4,433	1,169	26.4%
-Two Adults	15,998	6,662	41.6%
-Total	21,996	8,142	37.0%
-# Observation:
+Observation:
 Two-adult guests account for the highest cancellations (41.6%).
 Family bookings have the lowest cancellation rate (19.9%).
 
 # 2. Booking Accuracy
-Accuracy	Total Booking	Canceled Booking	Cancellation Rate (%)
-Correct	18,160	8,010	44.1%
-Incorrect	3,836	132	3.4%
-Total	21,996	8,142	37.0%
 Observation:
 Correct bookings contribute significantly to cancellations (44.1%).
 Incorrect bookings have a minimal cancellation rate (3.4%).
 
 # 3. Monthly Trends
-Month	Total Booking	Canceled Booking	Cancellation Rate (%)
-July	2,776	1,259	45.4%
-August	3,889	1,598	41.1%
-September	5,114	2,094	40.9%
-October	4,957	1,732	34.9%
-November	2,340	486	20.8%
-December	2,920	973	33.3%
-Total	21,996	8,142	37.0%
 Observation:
 July and August have the highest cancellation rates (45.4% and 41.1%).
 November has the lowest cancellation rate (20.8%).
 
 # 4. Hotel Performance
-Hotel Type	Total Booking	Canceled Booking	Cancellation Rate (%)
-City Hotel	13,682	6,004	43.9%
-Resort Hotel	8,314	2,138	25.7%
-Total	21,996	8,142	37.0%
 Observation:
 City Hotels have a higher cancellation rate (43.9%) compared to Resort Hotels (25.7%).
 Resort Hotels demonstrate better booking retention.
