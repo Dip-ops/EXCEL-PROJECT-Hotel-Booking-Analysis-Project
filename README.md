@@ -52,7 +52,7 @@ Resort Hotels demonstrate better booking retention.
 
 # Visualizations
 ## Dashboard
-"C:\Users\kunal\OneDrive\Pictures\Screenshots\Screenshot 2024-12-24 093722.png"
+Screenshot 2024-12-24 093722.png
 # Recommendations
 ## Improving Booking Retention:
 Implement stricter confirmation policies for bookings.
