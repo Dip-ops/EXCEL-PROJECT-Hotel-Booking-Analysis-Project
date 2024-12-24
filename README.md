@@ -52,7 +52,7 @@ Resort Hotels demonstrate better booking retention.
 
 # Visualizations
 ## Dashboard
-Screenshot 2024-12-24 093722.png
+[Screenshot 2024-12-24 093722.png](https://github.com/Dip-ops/EXCEL-PROJECT-Hotel-Booking-Analysis-Project/blob/main/Screenshot%202024-12-24%20093722.png)
 # Recommendations
 ## Improving Booking Retention:
 Implement stricter confirmation policies for bookings.
