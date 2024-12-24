@@ -51,15 +51,8 @@ City Hotels have a higher cancellation rate (43.9%) compared to Resort Hotels (2
 Resort Hotels demonstrate better booking retention.
 
 # Visualizations
-# Guest Type Analysis:
-Bar chart showing total vs canceled bookings for family, single, and two-adult guests.
-# Booking Accuracy:
-Pie chart depicting the proportion of correct vs incorrect bookings.
-# Monthly Trends:
-Line graph showing total bookings and cancellations from July to December.
-# Hotel Performance:
-Comparative bar chart for City Hotel vs Resort Hotel bookings and cancellations.
-
+## Dashboard
+"C:\Users\kunal\OneDrive\Pictures\Screenshots\Screenshot 2024-12-24 093722.png"
 # Recommendations
 ## Improving Booking Retention:
 Implement stricter confirmation policies for bookings.
